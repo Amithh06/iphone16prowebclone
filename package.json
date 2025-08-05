@@ -3,17 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
+
   "homepage": "https://Amithh06/github.io/iphone16prowebclone",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-=======
-  
-  
-  "scripts": {
- 
->>>>>>> da1439749179b58f0fae8cd551e1594f7397b2fa
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
